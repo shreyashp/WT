@@ -16,7 +16,7 @@ body
     background-size: cover;
 }
 
-.login
+.login, .register
 {
     position: relative;
     z-index: 1;
@@ -44,11 +44,13 @@ input:focus::placeholder
     color: blue;
 }
 
-input#username, input#password
+input#username, input#password, input#email, input#mobile
 {
     width: 80%;
     margin: 5% auto 5%;
     padding: 3%;
+    border-radius: 100px;
+    border-style: ridge;
 }
 
 .button

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<users>
+    <profile>
+        <account>
+            <name>alpha</name>
+            <pass>beta</pass>
+            <email>gamma@theta.com</email>
+            <mobile>1234567809</mobile>
+            <age>20</age>
+        </account>
+        <account>
+            <name>abc</name>
+            <pass>def</pass>
+            <email>ghi@jkl.com</email>
+            <mobile>9807654321</mobile>
+            <age>28</age>
+        </account>
+    </profile>
+</users>
